@@ -1,1 +1,23 @@
+{
+  "name": "todo-list-rest-api",
+  "version": "1.0.0",
+  "description": "Week 2 Assignment 1 - To-Do List REST API using Node.js, Express, and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["mern", "express", "mongodb", "rest-api", "todo"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
 
